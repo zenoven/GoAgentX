@@ -60,7 +60,7 @@ GoAgentX 是一个在 Mac OS X 下使用代理服务的图形界面控制软件�
 
 ## 程序截图
 
-![程序截图](https://github.com/ohdarling/GoAgentX/raw/master/Screenshot.png)
+![程序截图](Screenshot.png)
 
 ## 如何编译
 
